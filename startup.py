@@ -1,5 +1,3 @@
-from functions.build_functions import Part
-from events.PartEvents import PartEvent
 from luacomplier.translator import Translator
 
 complier = Translator()
