@@ -5,7 +5,7 @@ A fun way to use python for roblox game development.
 Clone the github repo.
 
 ```bash
-git clone https://github.com/ItsNotAlexy/PyBlox
+git clone https://github.com/ItsNotAlexy/PipBlox
 ```
 Next, Create a python file with your code thats written in python.
 
