@@ -1,11 +1,7 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/101402577/201824633-9be36a69-1ab7-462f-a157-2a2e8163ff8c.png" style="width:15em; height: 15em;">
-</p>
-
-# PyLua
+# ✨PyLua
 A fun way to use python for roblox game development.
 
-## Getting Started
+## 📝 Getting Started
 Clone the github repo.
 
 ```bash
@@ -37,7 +33,7 @@ with open("src/server/init.server.lua", "a") as f:
 ```
 <br>
 
-## Deploying Your Code
+## 📥 Deploying Your Code
 You need to deploy your code into the `Roblox Studio` via Rojo.
 
 Inside of VSCode, Install the Rojo Extension.
@@ -59,3 +55,12 @@ After downloading the Rojo Roblox Studio plugin, You need to serve your code and
 
 Go to Roblox Studio, And press the Rojo Plugin. Click connect and your code is now deployed!
 
+## ℹ Requirements
+- Python 3.9+
+- Roblox Studio
+- Rojo VSCode Extension & Roblox Studio Plugin
+
+## © Copyright
+
+Python to Lua Complier: https://github.com/dmitrii-eremin/python-lua <br>
+Rojo: https://rojo.space/docs/v7/ <br>
