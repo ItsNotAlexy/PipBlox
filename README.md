@@ -1,4 +1,4 @@
-# ✨PyLua
+# ✨Pipblox
 A fun way to use python for roblox game development.
 
 ## 📝 Getting Started
